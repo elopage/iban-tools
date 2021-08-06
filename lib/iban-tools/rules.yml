@@ -160,6 +160,11 @@
   length: 27
   bban_pattern: '\d{7}[A-Z0-9]{16}'
 
+'GT':
+  # Guatemala
+  length: 28
+  bban_pattern: '[A-Z0-9]{4}\d{2}\d{2}[A-Z0-9]{16}'
+
 'HR':
   # Croatia
   length: 21
@@ -244,12 +249,12 @@
   # Montenegro
   length: 22
   bban_pattern: '\d{18}'
-  
+
 'MG':
   # Madagascar
   length: 27
   bban_pattern: '\d{23}'
-  
+
 'MK':
   # Macedonia
   length: 19
@@ -344,6 +349,11 @@
   # San Marino
   length: 27
   bban_pattern: '[A-Z]\d{10}[A-Z0-9]{12}'
+
+'TL':
+  # Timor-Leste
+  length: 23
+  bban_pattern: '\d[0-9]{2}[0-9]{3}[0-9]{14}[0-9]{2}'
 
 'TN':
   # Tunisia
