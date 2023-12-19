@@ -66,6 +66,9 @@
   bank_code: 5!n
   account_number: 12!c
 
+'CM':
+  account_number: 23!n
+
 'CY':
   bank_code: 3!n
   branch_code: 5!n
