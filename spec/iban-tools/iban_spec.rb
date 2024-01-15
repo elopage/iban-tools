@@ -170,7 +170,8 @@ module IBANTools
         "JO71CBJO0000000000001234567890",
         "XK051212012345678906",
         "SC52BAHL01031234567890123456USD",
-        "GT02INDL02010000000180147506"
+        "GT02INDL02010000000180147506",
+        "CM2110002000300277976315008"
       ].each do |iban_code|
         describe iban_code do
           it "should be valid" do
